@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - audio_zone1
+  - audio_zone2
+  - audio_zone3
+  - Snappable
+  - Hands
+  - Box
+  - Trail
+  - TTSYes
+  - TTSNo
+  - ToggleCoat
+  - 2_fetchBeaker
+  - 2_fillBeaker
+  - 2_placeBeaker
+  - Stand
+  - Burner
+  - 3_checkedRings
+  - 3_connectedTube
+  - 3_openedTube
+  - 3_litFlame
+  - 4_standOverFlame
+  - 5_bunsenLess
+  - 5_bunsenMore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - HittableObjectsClickRay
+  - HittableObjects
+  - ZoneBlocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
